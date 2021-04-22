@@ -101,7 +101,7 @@ I created discord server for bug reports and stuff so you can join if you want t
 <br>\
 <h3>16.08.2020</h3>\
 - HOTFIX: Fixed commas in item names causing world to become corrupted (e.g. Up, Up and Away Block).<br>\
-If your world got corrupted when saving with one please join https://discord.gg/c2j2C92 and message me at healLV#8021 or just ping me.<br>\
+If your world got corrupted when saving with one please join https://discord.gg/ShtEEHFuPf and message me at @bolwl.gt or just ping me.<br>\
 <br>\
 - Fixed world renderer wrong resolution.<br>\
 <h3>02.06.2020</h3>\
