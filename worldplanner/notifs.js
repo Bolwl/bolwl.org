@@ -24,7 +24,7 @@ function createNotif () {
 	d.style["border-radius"] = "10px";
 	d.style.width = "50%;"
 	d.style["z-index"] = 5;
-	d.innerHTML = "Thank you for choosing to use Cernodile's Growtopia \
+	d.innerHTML = "Thank you for choosing to use Bolwl's Growtopia \
 World Planner! This is a official fork of the project endorsed by the author \
 which includes all the new items and several bugfixes. Help spread the word by \
 bumping the thread on Growtopia forums.<br><br>\
@@ -75,8 +75,11 @@ function createChangeLog () {
 	c.style.width = "50%;"
 	c.style["z-index"] = 5;
 	c.style["overflow-y"] = "scroll";
-	inviteLink = "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://discord.gg/Av6yg28\">https://discord.gg/Av6yg28</a>";
+	inviteLink = "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://discord.gg/ShtEEHFuPf\">https://discord.gg/ShtEEHFuPf</a>";
 	c.innerHTML = "<h2>Changelog</h2>\
+<h3>22.04.2021</h3>\
+- Updated item data to Grow4Good.<br>\
+<br>\
 <h3>04.04.2021</h3>\
 - Updated item data to Easter 2021.<br>\
 <br>\
