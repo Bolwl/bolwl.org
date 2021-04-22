@@ -5,17 +5,17 @@
 <html>
 <!---------------------------- HEADER ---------------------------------->
   <head>
-    <title>Cernodile's Tools - World Planner</title>
+    <title>Bolwl's World Planner</title>
     <script type="text/javascript" src="./data.json"></script>
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
    
 	<meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0, target-densitydpi=device-dpi, initial-scale=1.0">
     <meta name="description" content="Web-based world planner for growtopiagame.com."/>
-    <meta property="og:title" content="Cernodile's Tools - World Planner"/>
+    <meta property="og:title" content="Bolwl's World Planner"/>
     <meta property="og:description" content="Web-based world planner for growtopiagame.com"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:url" content="https://okass.net/growtopia/planner.php"/>
-    <meta property="og:image" content="https://okass.net/growtopia/assets/planner/logo.png"/>
+    <meta property="og:url" content="https://www.bolwl.ml/worldplanner/"/>
+    <meta property="og:image" content="https://www.bolwl.ml/images/bolwlnobg.png"/>
     <meta property="og:image:width" content="96"/>
     <meta property="og:image:height" content="96"/>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
