@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'PT Sans', sans-serif;
+}
+html {
+	background: white;
+}
+html::after {
+	content: " ";
+	display:block;
+	height: 5em;
+}
+a {
+	color: #0081ff;
+}
+#content {
+	padding: 0 5%;
+}
+#header {
+	width: 100%;
+	color: black;
+	text-align: center;
+	padding: 25px 0;
+	text-shadow: 2px 2px black;
+}
+#result {
+	display: block;
+	margin: 0 auto;
+	cursor: pointer;
+	box-shadow: 0px 0px 10px black;
+}
+#result canvas {
+	position: absolute;
+}
+#button {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+	padding: 8px 13px;
+	color: white;
+	cursor: pointer;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background-color:#0081ff;
+}
+#button:hover {
+	background-color:#4ba5ff;
+}
+#footer {
+	position: fixed;
+	bottom: 0;
+	background: #323030;
+	color: #bdbdbd;
+	width: 100%;
+	height: auto;
+	padding: 5px 0;
+}
+#footer p {
+	padding: 0 5px;
+}
