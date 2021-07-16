@@ -17792,15 +17792,6 @@ data = {
         "x": 23,
         "y": 17
     },
-    "Pineapple Guzzler": {
-        "spread": 1,
-        "file": "tiles_page15.png",
-        "cat": "Foreground Block",
-        "col": 0,
-        "flip": 1,
-        "x": 9,
-        "y": 17
-    },
     "Pegasus Block": {
         "spread": 1,
         "file": "tiles_page15.png",
