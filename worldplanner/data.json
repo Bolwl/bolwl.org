@@ -17462,7 +17462,7 @@ data = {
     "Waving Inflatable Arm Guy": {
         "spread": 1,
         "file": "tiles_page15.png",
-        "cat": "",
+        "cat": "Waving Arm Guy",
         "col": 0,
         "flip": 0,
         "x": 8,
@@ -17549,6 +17549,78 @@ data = {
         "x": 10,
         "y": 13
     },
+    "Siesta Sombrero Bed": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 1,
+        "x": 7,
+        "y": 16
+    },
+    "Mysterious Color TV": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Gravity Well/Weather Vane",
+        "col": 0,
+        "flip": 0,
+        "x": 24,
+        "y": 17
+    },
+    "Giant Taco House": {
+        "spread": 5,
+        "file": "tiles_page15.png",
+        "cat": "Background Block",
+        "col": 0,
+        "flip": 0,
+        "x": 22,
+        "y": 15
+    },
+    "Taco Truck Oven": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Oven",
+        "col": 0,
+        "flip": 1,
+        "x": 30,
+        "y": 15
+    },
+    "Lava Pinata": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Event Mystery Block",
+        "col": 0,
+        "flip": 0,
+        "x": 17,
+        "y": 16
+    },
+    "Sheet Music: Mexican Trumpet": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Sheet Music",
+        "col": 0,
+        "flip": 0,
+        "x": 10,
+        "y": 16
+    },
+    "Sheet Music: Sharp Mexican Trumpet": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Sheet Music",
+        "col": 0,
+        "flip": 0,
+        "x": 12,
+        "y": 16
+    },
+    "Sheet Music: Flat Mexican Trumpet": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Sheet Music",
+        "col": 0,
+        "flip": 0,
+        "x": 14,
+        "y": 16
+    },
     "Startopia Supply Crate": {
         "spread": 1,
         "file": "tiles_page15.png",
@@ -17593,5 +17665,221 @@ data = {
         "flip": 0,
         "x": 16,
         "y": 15
+    },
+    "Ad Block 4x3": {
+        "spread": 1,
+        "file": "player_cosmetics2.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 24,
+        "y": 1
+    },
+    "Ad Block 3x2": {
+        "spread": 1,
+        "file": "player_cosmetics2.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 25,
+        "y": 1
+    },
+    "Ad Block 7x1": {
+        "spread": 1,
+        "file": "player_cosmetics2.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 26,
+        "y": 1
+    },
+    "Ad Control Block": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 19,
+        "y": 16
+    },
+    "Taco Window": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 0,
+        "x": 31,
+        "y": 16
+    },
+    "Taco Door": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Door",
+        "col": 0,
+        "flip": 0,
+        "x": 30,
+        "y": 16
+    },
+    "Voucher Dayz Surgery Supply Crate": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 0,
+        "x": 20,
+        "y": 17
+    },
+    "The Pine Throne": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 1,
+        "x": 8,
+        "y": 17
+    },
+    "Pineapple Table": {
+        "spread": 3,
+        "file": "tiles_page15.png",
+        "cat": "Platform",
+        "col": 2,
+        "flip": 0,
+        "x": 0,
+        "y": 17
+    },
+    "Stained Glass Pineapple": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Background Block",
+        "col": 0,
+        "flip": 0,
+        "x": 7,
+        "y": 17
+    },
+    "Pineapple Record Player": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Toggleable Foreground",
+        "col": 0,
+        "flip": 1,
+        "x": 4,
+        "y": 17
+    },
+    "Voucher Dayz Startopia Supply Crate": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 0,
+        "x": 22,
+        "y": 17
+    },
+    "Voucher Dayz Cooking Crate": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 0,
+        "x": 21,
+        "y": 17
+    },
+    "Voucher Dayz Super Hero Crate": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 0,
+        "x": 23,
+        "y": 17
+    },
+    "Pineapple Guzzler": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 1,
+        "x": 9,
+        "y": 17
+    },
+    "Pegasus Block": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 18,
+        "y": 17
+    },
+    "Pegasus Block BG": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Background Block",
+        "col": 0,
+        "flip": 0,
+        "x": 19,
+        "y": 17
+    },
+    "Summer Artifact Chest": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 0,
+        "x": 0,
+        "y": 25
+    },
+    "Ultra Red Phoenix Fragment": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 0,
+        "y": 22
+    },
+    "Ultra Blue Neptune Fragment": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 2,
+        "y": 22
+    },
+    "Ultra White Fragment": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 1,
+        "flip": 0,
+        "x": 2,
+        "y": 25
+    },
+    "Tropical Bar": {
+        "spread": 5,
+        "file": "tiles_page15.png",
+        "cat": "Background Block",
+        "col": 0,
+        "flip": 1,
+        "x": 0,
+        "y": 23
+    },
+    "Tropical Bar Stool": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "Foreground Block",
+        "col": 0,
+        "flip": 1,
+        "x": 4,
+        "y": 25
+    },
+    "Thermometer": {
+        "spread": 1,
+        "file": "tiles_page15.png",
+        "cat": "SFX Foreground",
+        "col": 0,
+        "flip": 0,
+        "x": 4,
+        "y": 22
     }
 }
